@@ -19,6 +19,7 @@ color: white;
     padding-top: 10.4vh;    
 }
 .page1 h1{
+    color: black;
     font-size: 14vw;
     font-weight: 950;
     letter-spacing: -8px;
@@ -26,6 +27,7 @@ color: white;
 }
 .page1 h2{
     font-size: 14vw;
+    color: black;
     font-weight: 950;
     letter-spacing: -8px;
     line-height: 14vw;
